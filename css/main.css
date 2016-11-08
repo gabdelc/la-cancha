@@ -22,17 +22,15 @@ div {
     width: 90px;
     height: 150px;
     position: absolute;
-    
-}
-
-#der {
-    left: 0px;
-    top: 100px;
-  
     }
 
+#der {
+    left: -2px;
+    top: 100px;
+      }
+
 #izq {
-    right: 0px;
+    right: -2px;
     top: 100px;
 }
 
