@@ -1,1 +1,65 @@
-/* Inserta tu CSS aqui */
+.cesped {
+    background: #57bc5b;
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+div {
+    border: 2px #FFF solid;
+    }
+
+.lineas{
+    display: inline-block;
+    position: absolute;
+    width: 95%;
+    height: 90%;
+    margin: 20px;
+    }
+
+.porteria{
+    width: 90px;
+    height: 150px;
+    position: absolute;
+    
+}
+
+#der {
+    left: 0px;
+    top: 100px;
+  
+    }
+
+#izq {
+    right: 0px;
+    top: 100px;
+}
+
+#centro{
+    border-radius: 100px;
+    width: 150px;
+    margin: 100px 300px;
+    }
+
+#pelota1{
+    position: absolute;
+    top: 105px;
+    left: 80px;
+}
+
+#pelota2{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+#pelota3{
+    position: absolute;
+    bottom: 110px;
+    right: 100px;
+}
+
+
+
+
